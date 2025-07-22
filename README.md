@@ -2,6 +2,8 @@
 
 Welcome to the **Hugging Face Transformers with Python** course! This comprehensive guide is designed to help you master state-of-the-art Natural Language Processing (NLP) using the Hugging Face `transformers` library and Python.
 
+`Change this part bro!`
+
 ## 📘 Course Overview
 
 This course covers the fundamentals and advanced concepts of using Hugging Face Transformers for modern NLP tasks. You’ll learn everything from tokenization and fine-tuning to deployment.
